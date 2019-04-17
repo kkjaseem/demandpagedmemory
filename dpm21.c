@@ -29,4 +29,5 @@ int main()
 	PFR = (EAT-MAT)/(Modifiedper*PFModified + (1-Modifiedper)*PFnotModified - MAT);
 	printf("%lf",PFR);
 	getch();
+
 }
