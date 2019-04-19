@@ -19,7 +19,7 @@ int main()
 	printf("Enter the time for Memory Access in nano seconds: ");
 	scanf("%lf",&MAT);
 	MAT *=pow(10,-9); 
-	printf("Enter the modified percentage: ");
+	printf("Enter the modified Percentage: ");
 	scanf("%lf",&Modifiedper);
 	Modifiedper = Modifiedper/100;
 	printf("Enter the time for Efficiency Access in nano seconds: ");
